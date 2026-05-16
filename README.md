@@ -2,7 +2,7 @@
 
 Eskişehir Osmangazi Üniversitesi Matematik & Bilgisayar Bilimleri 3. sınıf öğrencisiyim.
 Flutter & Firebase ile mobil uygulama geliştiriyor, React & FastAPI ile web projeleri üretiyorum.
-Aynı zamanda MACS Kulübü'nde proje koordinatörü olarak 35 kişilik departmanı Scrum/Kanban ile yönetiyorum.
+Aynı zamanda Matematik ve Bilgisayar Kulübü'nde Proje Koordinatörü olarak görev alıyorum. 
 
 ---
 
